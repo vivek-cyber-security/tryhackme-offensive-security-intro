@@ -12,4 +12,4 @@ Completed ✅
 - Basic web attack concept
 
 ## My Experience
-This was my first TryHackMe room. I learned how ethical hackers approach a system and identify vulnerabilities in a safe lab environment.
+This was my first TryHackMe room. I learned how ethical hackers approach a system and identify vulnerabilities in a safe lab environment
